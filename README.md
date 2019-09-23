@@ -391,6 +391,110 @@
 		<td>30</td>
 		<td>Implementation</td>
 	</tr>
+	<tr>
+		<td>46</td>
+		<td><a href="https://www.hackerrank.com/challenges/reduced-string">Super reduced string</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>47</td>
+		<td><a href="https://www.hackerrank.com/challenges/camelcase">CamelCase</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>48</td>
+		<td><a href="https://www.hackerrank.com/challenges/strong-password">Strong password</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>49</td>
+		<td><a href="https://www.hackerrank.com/challenges/caesar-cipher-1">Caesar cipher</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>50</td>
+		<td><a href="https://www.hackerrank.com/challenges/mars-exploration">Mars exploration</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>51</td>
+		<td><a href="https://www.hackerrank.com/challenges/hackerrank-in-a-string">HackerRank in a String!</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>52</td>
+		<td><a href="https://www.hackerrank.com/challenges/pangrams">Pangrams</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>53</td>
+		<td><a href="https://www.hackerrank.com/challenges/funny-string">Funny string</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>25</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>54</td>
+		<td><a href="https://www.hackerrank.com/challenges/gem-stones">Gemstones</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>55</td>
+		<td><a href="https://www.hackerrank.com/challenges/alternating-characters">Alternating characters</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>56</td>
+		<td><a href="https://www.hackerrank.com/challenges/beautiful-binary-string">Beautiful binary string</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>57</td>
+		<td><a href="https://www.hackerrank.com/challenges/two-strings">Two strings</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>25</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>57</td>
+		<td><a href="https://www.hackerrank.com/challenges/sherlock-and-valid-string">Sherlock and the valid string</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>35</td>
+		<td>Strings</td>
+	</tr>
 	
 </table>
 </p>
