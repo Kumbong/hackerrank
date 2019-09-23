@@ -16,8 +16,6 @@
 	<img src="https://img.shields.io/github/issues/kumbong/hackerrank">
 	<img src="https://img.shields.io/github/last-commit/kumbong/hackerrank">
 </p>
-<h2>Contributing</h2>
-<p>If you are interested in helping or have a solution in a different language feel free to make a pull request.</p>
 <p align="center">
 
 # Algorithms
@@ -716,3 +714,283 @@
 </table>
 </p>
 
+# Python
+<table align="center">
+	<tr>
+		<th>#</th>
+		<th>Problem</th>
+		<th>Solution</th>
+		<th>Difficulty</th>
+		<th>Points</th>
+		<th>Sub domain</th>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td><a href="https://www.hackerrank.com/challenges/py-hello-world">Say "Hello, World!" With Python</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>5</td>
+		<td>Introduction</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td><a href="https://www.hackerrank.com/challenges/py-if-else"> If-else</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Introduction</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td><a href="https://www.hackerrank.com/challenges/python-arithmetic-operators">arithmetic operators </a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Introduction</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td><a href="https://www.hackerrank.com/challenges/python-division">Division</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Introduction</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td><a href="https://www.hackerrank.com/challenges/python-loops">Loops</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Introduction</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td><a href="https://www.hackerrank.com/challenges/write-a-function">Write a function </a></td>
+		<td>Solution</td>
+		<td>Medium</td>
+		<td>10</td>
+		<td>Introduction</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td><a href="https://www.hackerrank.com/challenges/python-print"> Print function</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Introduction</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td><a href="https://www.hackerrank.com/challenges/list-comprehensions">List comprehensions </a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Basic data types</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td><a href="https://www.hackerrank.com/challenges/find-second-maximum-number-in-a-list"> Find the runner-up score!</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Basic data types</td>
+	</tr>
+	<tr>
+		<td>10</td>
+		<td><a href="https://www.hackerrank.com/challenges/nested-list"> Nested lists</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Basic data types</td>
+	</tr>
+	<tr>
+		<td>11</td>
+		<td><a href="https://www.hackerrank.com/challenges/finding-the-percentage">Find the percentage </a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Basic data types</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td><a href="https://www.hackerrank.com/challenges/python-lists">Lists</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Basic data types</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td><a href="https://www.hackerrank.com/challenges/python-tuples">Tuples</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Basic data types</td>
+	</tr>
+	<tr>
+		<td>14</td>
+		<td><a href="https://www.hackerrank.com/challenges/swap-case">sWAP cASE</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td><a href="https://www.hackerrank.com/challenges/python-string-split-and-join">String split and join</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td><a href="https://www.hackerrank.com/challenges/whats-your-name">What's your name?</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td><a href="https://www.hackerrank.com/challenges/python-mutations">mutations</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td><a href="https://www.hackerrank.com/challenges/find-a-string">Find a string</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>19</td>
+		<td><a href="https://www.hackerrank.com/challenges/string-validators">String validators</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td><a href="https://www.hackerrank.com/challenges/capitalize">Capitalize!</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>21</td>
+		<td><a href="https://www.hackerrank.com/challenges/py-introduction-to-sets">Introduction to sets</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Sets</td>
+	</tr>
+	<tr>
+		<td>22</td>
+		<td><a href="https://www.hackerrank.com/challenges/no-idea">No Idea!</a></td>
+		<td>Solution</td>
+		<td>Medium</td>
+		<td>50</td>
+		<td>Sets</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td><a href="https://www.hackerrank.com/challenges/symmetric-difference">Symmetric difference</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Sets</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td><a href="https://www.hackerrank.com/challenges/py-set-add">.add()</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Sets</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td><a href="https://www.hackerrank.com/challenges/py-set-discard-remove-pop">.discard(), .remove() & .pop()</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Sets</td>
+	</tr>
+	<tr>
+		<td>26</td>
+		<td><a href="https://www.hackerrank.com/challenges/py-set-union">.union() operation</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Sets</td>
+	</tr>
+	<tr>
+		<td>27</td>
+		<td><a href="https://www.hackerrank.com/challenges/py-set-intersection-operation">.intersection() operation</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Sets</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td><a href="https://www.hackerrank.com/challenges/py-set-difference-operation">.difference() operation</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Sets</td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td><a href="https://www.hackerrank.com/challenges/py-set-mutations">Set mutations</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Sets</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td><a href="https://www.hackerrank.com/challenges/py-set-symmetric-difference-operation">.symmetric_difference() operation</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Sets</td>
+	</tr>
+	<tr>
+		<td>31</td>
+		<td><a href="https://www.hackerrank.com/challenges/py-check-subset">Check subset</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Sets</td>
+	</tr>
+	<tr>
+		<td>32</td>
+		<td><a href="https://www.hackerrank.com/challenges/py-check-strict-superset">Check strict superset</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Sets</td>
+	</tr>
+</table>
+
+# C++
+
+# C 
+<h2>Contributing</h2>
+<p>If you are interested in helping or have a solution in a different language feel free to make a pull request. You can also reach me on through the following media if you want to talk.
+<ul>
+	<li>Email - kumbonghermann@gmail.com</li>
+	<li>Follow me on <a href="https://twitter.com/KumbongHermann">twitter</a></li>
+	<li>Let's connect on <a href="https://www.linkedin.com/in/kumbong-hermann-406481110/">linkedin</a></li>
+	<li>I'm on <a href="https://www.hackerrank.com/kumbonghermann">hackerrank</a> as well</li> 
+</ul>
+</p>
