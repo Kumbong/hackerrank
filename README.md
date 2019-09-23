@@ -685,8 +685,33 @@
 		<td>Solution</td>
 		<td>Easy</td>
 		<td>40</td>
-		<td>Flipping bits</td>
+		<td>Bit Manipulation</td>
 	</tr>
+	<tr>
+		<td>81</td>
+		<td><a href="https://www.hackerrank.com/challenges/strings-xor">XOR strings</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>25</td>
+		<td>Debugging</td>
+	</tr>
+	<tr>
+		<td>82</td>
+		<td><a href="https://www.hackerrank.com/challenges/zig-zag-sequence">Zig Zag sequence</a></td>
+		<td>Solution</td>
+		<td>Medium</td>
+		<td>40</td>
+		<td>Debugging</td>
+	</tr>
+	<tr>
+		<td>83</td>
+		<td><a href="https://www.hackerrank.com/challenges/smart-number">Smart Number</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>25</td>
+		<td>Debugging</td>
+	</tr>
+	
 	
 </table>
 </p>
