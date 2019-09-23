@@ -569,7 +569,7 @@
 	</tr>
 	<tr>
 		<td>66</td>
-		<td><a href="https://www.hackerrank.com/challenges/icecream-parlor"><Icre cream parlor/a></td>
+		<td><a href="https://www.hackerrank.com/challenges/icecream-parlor">Icre cream parlor</a></td>
 		<td>Solution</td>
 		<td>Easy</td>
 		<td>30</td>
@@ -585,7 +585,7 @@
 	</tr>
 	<tr>
 		<td>68</td>
-		<td><a href="https://www.hackerrank.com/challenges/pairs"></a>Pairs</td>
+		<td><a href="https://www.hackerrank.com/challenges/pairs">Pairs</a></td>
 		<td>Solution</td>
 		<td>Medium</td>
 		<td>50</td>
