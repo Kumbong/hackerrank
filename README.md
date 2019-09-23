@@ -6,7 +6,7 @@
     Efficient solutions to problems on HackerRank in Python.
 </p>
 <p align="center">
-	|hackerrank | algorithms| data structures | mathematics| c | c++ | java |python |ruby | linux shell | functional programming| artificial intelligence| sql|databases| regex| interview preparation kit |30 days of code| 10 days of statistics |10 days of javascript | 
+	| hackerrank | algorithms| data structures | mathematics | c | c++ | java | python | ruby | linux shell | functional programming | artificial intelligence | sql | databases | regex | interview preparation kit |30 days of code| 10 days of statistics |10 days of javascript | 
 </p>
 <p align="center">
 	<img src="https://img.shields.io/badge/Problems%20Solved-83-brightgreen.svg">
