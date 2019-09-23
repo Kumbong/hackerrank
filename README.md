@@ -495,6 +495,78 @@
 		<td>35</td>
 		<td>Strings</td>
 	</tr>
+	<tr>
+		<td>58</td>
+		<td><a href="https://www.hackerrank.com/challenges/big-sorting">Big sorting</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Sorting</td>
+	</tr>
+	<tr>
+		<td>59</td>
+		<td><a href="https://www.hackerrank.com/challenges/tutorial-intro">Intro to tutorial challenges</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Sorting</td>
+	</tr>
+	<tr>
+		<td>60</td>
+		<td><a href="https://www.hackerrank.com/challenges/insertionsort1">Insertion sort -  part 1</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Sorting</td>
+	</tr>
+	<tr>
+		<td>61</td>
+		<td><a href="https://www.hackerrank.com/challenges/insertionsort2">Insertion sort - part 2</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Sorting</td>
+	</tr>
+	<tr>
+		<td>62</td>
+		<td><a href="https://www.hackerrank.com/challenges/correctness-invariant">Correctness and the loop invariant</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Sorting</td>
+	</tr>
+	<tr>
+		<td>63</td>
+		<td><a href="https://www.hackerrank.com/challenges/countingsort1">Counting sort 1</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Sorting</td>
+	</tr>
+	<tr>
+		<td>63</td>
+		<td><a href="https://www.hackerrank.com/challenges/countingsort2">Counting sort 2</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Sorting</td>
+	</tr>
+	<tr>
+		<td>64</td>
+		<td><a href="https://www.hackerrank.com/challenges/closest-numbers">Closest numbers</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>35</td>
+		<td>Sorting</td>
+	</tr>
+	<tr>
+		<td>65</td>
+		<td><a href="https://www.hackerrank.com/challenges/find-the-median">Find the median</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>35</td>
+		<td>Sorting</td>
+	</tr>
 	
 </table>
 </p>
