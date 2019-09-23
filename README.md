@@ -567,6 +567,126 @@
 		<td>35</td>
 		<td>Sorting</td>
 	</tr>
+	<tr>
+		<td>66</td>
+		<td><a href="https://www.hackerrank.com/challenges/icecream-parlor"><Icre cream parlor/a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Search</td>
+	</tr>
+	<tr>
+		<td>67</td>
+		<td><a href="https://www.hackerrank.com/challenges/missing-numbers">Missing Numbers</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>45</td>
+		<td>Search</td>
+	</tr>
+	<tr>
+		<td>68</td>
+		<td><a href="https://www.hackerrank.com/challenges/pairs"></a>Pairs</td>
+		<td>Solution</td>
+		<td>Medium</td>
+		<td>50</td>
+		<td>Search</td>
+	</tr>
+	<tr>
+		<td>69</td>
+		<td><a href="https://www.hackerrank.com/challenges/sherlock-and-array">Sherlock and array</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>40</td>
+		<td>Search</td>
+	</tr>
+	<tr>
+		<td>70</td>
+		<td><a href="https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array">Minimum absolute difference in an array</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Greedy</td>
+	</tr>
+	<tr>
+		<td>71</td>
+		<td><a href="https://www.hackerrank.com/challenges/priyanka-and-toys">Priyanka and toys</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Greedy</td>
+	</tr>
+	<tr>
+		<td>72</td>
+		<td><a href="https://www.hackerrank.com/challenges/mark-and-toys">Mark and toys</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>35</td>
+		<td>Greedy</td>
+	</tr>
+	<tr>
+		<td>73</td>
+		<td><a href=""></a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td></td>
+		<td>Greedy</td>
+	</tr>
+	<tr>
+		<td>74</td>
+		<td><a href="https://www.hackerrank.com/challenges/angry-children">Max Min</a></td>
+		<td>Solution</td>
+		<td>Medium</td>
+		<td>35</td>
+		<td>Greedy</td>
+	</tr>
+	<tr>
+		<td>75</td>
+		<td><a href="https://www.hackerrank.com/challenges/jim-and-the-orders">Jim  and the orders</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>40</td>
+		<td>Greedy</td>
+	</tr>
+	<tr>
+		<td>76</td>
+		<td><a href="https://www.hackerrank.com/challenges/two-arrays">Permuting two arrays</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>40</td>
+		<td>Greedy</td>
+	</tr>
+	<tr>
+		<td>77</td>
+		<td><a href="https://www.hackerrank.com/challenges/fibonacci-modified">Fibonacci Modified</a></td>
+		<td>Solution</td>
+		<td>Medium</td>
+		<td>45</td>
+		<td>Dynamic Programming</td>
+	</tr>
+	<tr>
+		<td>78</td>
+		<td><a href="https://www.hackerrank.com/challenges/lonely-integer">Lonely integer</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Bit manipulation</td>
+	</tr>
+	<tr>
+		<td>79</td>
+		<td><a href="https://www.hackerrank.com/challenges/maximizing-xor">Maximizing XOR</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Bit manipulation</td>
+	</tr>
+	<tr>
+		<td>80</td>
+		<td><a href="https://www.hackerrank.com/challenges/flipping-bits">Flipping bits</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>40</td>
+		<td>Flipping bits</td>
+	</tr>
 	
 </table>
 </p>
