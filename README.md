@@ -125,7 +125,7 @@
 		<td>Solution</td>
 		<td>Easy</td>
 		<td>10</td>
-		<td>Its a little hard</td>
+		<td>Implementation</td>
 	</tr>
 	<tr>
 		<td>13</td>
