@@ -3,7 +3,7 @@
 	<a href="https://www.hackerrank.com/profile/kumbonghermann"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a>
 </p>
 <p align="center">
-    Efficient solutions to problems on HackerRank in Python.
+    My (Efficient!!) solutions to problems on HackerRank in Python.
 </p>
 <p align="center">
 	| hackerrank | algorithms| data structures | mathematics | c | c++ | java | python | ruby | linux shell | functional programming | artificial intelligence | sql | databases | regex | interview preparation kit |30 days of code| 10 days of statistics |10 days of javascript | 
@@ -191,7 +191,206 @@
 		<td>10</td>
 		<td>Implementation</td>
 	</tr>
-	
+	<tr>
+		<td>21</td>
+		<td><a href="https://www.hackerrank.com/challenges/sock-merchant/problem">Sock merchant</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>22</td>
+		<td><a href="https://www.hackerrank.com/challenges/counting-valleys/problem">Counting valleys</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>23</td>
+		<td><a href="https://www.hackerrank.com/challenges/electronics-shop/problem">Electronics shop</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>24</td>
+		<td><a href="https://www.hackerrank.com/challenges/cats-and-a-mouse/problem">Cats and a mouse</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>25</td>
+		<td><a href="https://www.hackerrank.com/challenges/picking-numbers">Picking numbers</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>26</td>
+		<td><a href="https://www.hackerrank.com/challenges/the-hurdle-race">The hurdle race</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>27</td>
+		<td><a href="https://www.hackerrank.com/challenges/designer-pdf-viewer">Designer pdf viewer</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>28</td>
+		<td><a href="https://www.hackerrank.com/challenges/utopian-tree">Utopian tree</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>29</td>
+		<td><a href="https://www.hackerrank.com/challenges/angry-professor">Angry professor</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>30</td>
+		<td><a href="https://www.hackerrank.com/challenges/beautiful-days-at-the-movies">Beautiful days at the movies</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>31</td>
+		<td><a href="https://www.hackerrank.com/challenges/strange-advertising">Viral advertising</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>32</td>
+		<td><a href="https://www.hackerrank.com/challenges/circular-array-rotation">Circular array rotation</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>33</td>
+		<td><a href="https://www.hackerrank.com/challenges/permutation-equation">Sequence Equation</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>34</td>
+		<td><a href="https://www.hackerrank.com/challenges/find-digits">Find digits</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>25</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>35</td>
+		<td><a href="https://www.hackerrank.com/challenges/extra-long-factorials">Extra long factorials</a></td>
+		<td>Solution</td>
+		<td>Medium</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>36</td>
+		<td><a href="https://www.hackerrank.com/challenges/sherlock-and-squares">Serlock and squares</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>37</td>
+		<td><a href="https://www.hackerrank.com/challenges/cut-the-sticks">Cut the sticks</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>25</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>38</td>
+		<td><a href="https://www.hackerrank.com/challenges/equality-in-a-array">Equalize the array</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>39</td>
+		<td><a href="https://www.hackerrank.com/challenges/acm-icpc-team">ACM ICPC Team</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>25</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>40</td>
+		<td><a href="https://www.hackerrank.com/challenges/minimum-distances">Minimum distances</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>41</td>
+		<td><a href="https://www.hackerrank.com/challenges/halloween-sale">Halloween sale</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>42</td>
+		<td><a href="https://www.hackerrank.com/challenges/the-time-in-words">The time in words</a></td>
+		<td>Solution</td>
+		<td>Medium</td>
+		<td>25</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>43</td>
+		<td><a href="https://www.hackerrank.com/challenges/chocolate-feast">Chocolate feast</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>25</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>44</td>
+		<td><a href="https://www.hackerrank.com/challenges/manasa-and-stones">Manasa and stones</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>45</td>
+		<td><a href="https://www.hackerrank.com/challenges/strange-code">Strange counter</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Implementation</td>
+	</tr>
 	
 </table>
 </p>
