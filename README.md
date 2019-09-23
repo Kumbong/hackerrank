@@ -3,9 +3,10 @@
 	<a href="https://www.hackerrank.com/profile/kumbonghermann"><img src="http://gradsingames.com/wp-content/uploads/2015/12/title-hackerrank.jpg" ></a>
 </p>
 <p align="center">
-    Solutions to problems on HackerRank.
+    Efficient solutions to problems on HackerRank in Python.
 </p>
 <p align="center">
+	hackerrank | algorithms| data structures | mathematics| c | c++ | java |python |ruby | linux shell | functional programming| artificial intelligence| sql|databases| regex| interview preparation kit |30 days of code| 10 days of statistics |10 days of javascript | 
 	If you are interested in helping or have a solution in a different language feel free to make a pull request.
 </p>
 <p align="center">
