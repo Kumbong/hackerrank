@@ -983,8 +983,124 @@
 </table>
 
 # C++
+<table align="center">
+	<tr>
+		<th>#</th>
+		<th>Problem</th>
+		<th>Solution</th>
+		<th>Difficulty</th>
+		<th>Points</th>
+		<th>Sub domain</th>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td><a href="https://www.hackerrank.com/challenges/cpp-hello-world">Say "Hello, World!" With C++</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>5</td>
+		<td>Introduction</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td><a href="https://www.hackerrank.com/challenges/cpp-input-and-output">Input and Output</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>5</td>
+		<td>Introduction</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-basic-data-types">Basic Data Types</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Introduction</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else">Conditional Statements</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Introduction</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-for-loop">For Loop</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Introduction</td>
+	</tr>
+	<tr>
+		<td>6</td>
+		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-functions">Functions</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Introduction</td>
+	</tr>
+	<tr>
+		<td>7</td>
+		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-pointer">Pointer</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Introduction</td>
+	</tr>
+	<tr>
+		<td>8</td>
+		<td><a href="https://www.hackerrank.com/challenges/arrays-introduction">Arrays Introduction</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Introduction</td>
+	</tr>
+	<tr>
+		<td>9</td>
+		<td><a href="https://www.hackerrank.com/challenges/variable-sized-arrays">Variable Sized Arrays</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Introduction</td>
+	</tr>
+	<tr>
+		<td>10</td>
+		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-strings">Strings</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>11</td>
+		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-stringstream">StringStream</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>12</td>
+		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-class">Class</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Classes</td>
+	</tr>
+	<tr>
+		<td>13</td>
+		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-struct">Structs</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Classes</td>
+	</tr>
+	
+</table> 
 
 # C 
+
 <h2>Contributing</h2>
 <p>If you are interested in helping or have a solution in a different language feel free to make a pull request. You can also reach me on through the following media if you want to talk.
 <ul>
