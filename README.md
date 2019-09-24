@@ -10,11 +10,13 @@
 </p>
 <p align="center">
 	<img src="https://img.shields.io/github/commit-activity/m/kumbong/hackerrank">
-	<img src="https://img.shields.io/badge/Problems%20Solved-83-brightgreen.svg">
+	<img src="https://img.shields.io/badge/Problems%20Solved-125-brightgreen.svg">
 	<img src="https://img.shields.io/github/stars/kumbong/hackerrank">
-	<img src="https://img.shields.io/badge/Language-Python-blue.svg">
 	<img src="https://img.shields.io/github/issues/kumbong/hackerrank">
 	<img src="https://img.shields.io/github/last-commit/kumbong/hackerrank">
+	<img src="https://img.shields.io/github/languages/count/kumbong/hackerrank">
+	<img src="https://img.shields.io/github/languages/top/kumbong/hackerrank">
+	
 </p>
 <p align="center">
 
@@ -1095,6 +1097,62 @@
 		<td>Easy</td>
 		<td>10</td>
 		<td>Classes</td>
+	</tr>
+<tr>
+		<td>14</td>
+		<td><a href="https://www.hackerrank.com/challenges/classes-objects">Classes and objects</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Classes</td>
+	</tr>
+	<tr>
+		<td>15</td>
+		<td><a href="https://www.hackerrank.com/challenges/box-it">Box It!</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Classes</td>
+	</tr>
+	<tr>
+		<td>16</td>
+		<td><a href="https://www.hackerrank.com/challenges/inherited-code">Inherited Code</a></td>
+		<td>Solution</td>
+		<td>Medium</td>
+		<td>30</td>
+		<td>Classes</td>
+	</tr>
+	<tr>
+		<td>17</td>
+		<td><a href="https://www.hackerrank.com/challenges/exceptional-server">Exceptional Server</a></td>
+		<td>Solution</td>
+		<td>Medium</td>
+		<td>30</td>
+		<td>Classes</td>
+	</tr>
+	<tr>
+		<td>18</td>
+		<td><a href="https://www.hackerrank.com/challenges/virtual-functions">Virtual Functions</a></td>
+		<td>Solution</td>
+		<td>Medium</td>
+		<td>40</td>
+		<td>Classes</td>
+	</tr>
+	<tr>
+		<td>19</td>
+		<td><a href="https://www.hackerrank.com/challenges/vector-sort">Vector-Sort</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>STL</td>
+	</tr>
+	<tr>
+		<td>20</td>
+		<td><a href="https://www.hackerrank.com/challenges/vector-erase">Vector-Erase</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>STL</td>
 	</tr>
 	
 </table> 
