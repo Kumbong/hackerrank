@@ -711,7 +711,102 @@
 		<td>25</td>
 		<td>Debugging</td>
 	</tr>
-	
+	<tr>
+		<td>84</td>
+		<td><a href="https://www.hackerrank.com/challenges/save-the-prisoner">Save the prisoner!</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>85</td>
+		<td><a href="https://www.hackerrank.com/challenges/service-lane">Service lane</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>86</td>
+		<td><a href="https://www.hackerrank.com/challenges/day-of-the-programmer">Day of the Programmer</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>87</td>
+		<td><a href="https://www.hackerrank.com/challenges/drawing-book">Drawing Book</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>88</td>
+		<td><a href="https://www.hackerrank.com/challenges/jumping-on-the-clouds-revisited">Jumping on the clouds revisited</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>89</td>
+		<td><a href="https://www.hackerrank.com/challenges/library-fine">Library Fine</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>90</td>
+		<td><a href="https://www.hackerrank.com/challenges/marcs-cakewalk">Marc's Cakewalk</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>15</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>91</td>
+		<td><a href="https://www.hackerrank.com/challenges/repeated-string">Repeated String</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>92</td>
+		<td><a href="https://www.hackerrank.com/challenges/game-of-thrones">Game of Thrones -I</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>93</td>
+		<td><a href="https://www.hackerrank.com/challenges/runningtime">Running Time of Algorithms</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>94</td>
+		<td><a href="https://www.hackerrank.com/challenges/flatland-space-stations">Flatland Space Stations</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>25</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>95</td>
+		<td><a href="https://www.hackerrank.com/challenges/kaprekar-numbers">Modified Kaprekar Numbers</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Implementation</td>
+	</tr>
 	
 </table>
 </p>
