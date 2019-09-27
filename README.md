@@ -807,6 +807,86 @@
 		<td>30</td>
 		<td>Implementation</td>
 	</tr>
+	<tr>
+		<td>96</td>
+		<td><a href="https://www.hackerrank.com/challenges/append-and-delete/problem">Append and Delete</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>97</td>
+		<td><a href="https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem">Jumping on the Clouds</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>98</td>
+		<td><a href="https://www.hackerrank.com/challenges/jumping-on-the-clouds/problem">Taum and B'day</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>25</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>99</td>
+		<td><a href="https://www.hackerrank.com/challenges/beautiful-triplets/problem">Beautiful triplets</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>100</td>
+		<td><a href="https://www.hackerrank.com/challenges/the-love-letter-mystery/problem">The love letter mystery</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>101</td>
+		<td><a href="https://www.hackerrank.com/challenges/anagram/problem">Anagrams</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>25</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>102</td>
+		<td><a href="https://www.hackerrank.com/challenges/making-anagrams/problem">Making anagrams</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>103</td>
+		<td><a href="https://www.hackerrank.com/challenges/grid-challenge/problem">Grid Challenge</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Greedy</td>
+	</tr>
+	<tr>
+		<td>104</td>
+		<td><a href="https://www.hackerrank.com/challenges/counter-game/problem">Counter Game</a></td>
+		<td>Solution</td>
+		<td>Medium</td>
+		<td>30</td>
+		<td>Bit Manipulation</td>
+	</tr>
+	<tr>
+		<td>105</td>
+		<td><a href="https://www.hackerrank.com/challenges/cavity-map/problem">Cavity Map</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Implementation</td>
+	</tr>
 	
 </table>
 </p>
