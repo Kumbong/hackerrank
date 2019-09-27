@@ -943,6 +943,14 @@
 		<td>10</td>
 		<td>Sorting</td>
 	</tr>
+	<tr>
+		<td>113</td>
+		<td><a href="https://www.hackerrank.com/challenges/sherlock-and-the-beast/problem">Sherlock and The Beast</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Greedy</td>
+	</tr>
 	
 	
 	
