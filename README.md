@@ -887,6 +887,64 @@
 		<td>30</td>
 		<td>Implementation</td>
 	</tr>
+	<tr>
+		<td>106</td>
+		<td><a href="https://www.hackerrank.com/challenges/prime-date">Prime Dates</a></td>
+		<td>Solution</td>
+		<td>Meidum</td>
+		<td>40</td>
+		<td>Debugging</td>
+	</tr>
+	<tr>
+		<td>107</td>
+		<td><a href="https://www.hackerrank.com/challenges/encryption">Encryption</a></td>
+		<td>Solution</td>
+		<td>Meidum</td>
+		<td>30</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>108</td>
+		<td><a href="https://www.hackerrank.com/challenges/matrix-rotation-algo/problem">Matrix Layer Rotation</a></td>
+		<td>Solution</td>
+		<td>Hard</td>
+		<td>80</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>109</td>
+		<td><a href="https://www.hackerrank.com/challenges/lisa-workbook">Lisa's Workbook</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>25</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>110</td>
+		<td><a href="https://www.hackerrank.com/challenges/luck-balance/problem">Luck Balance</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Greedy</td>
+	</tr>
+	<tr>
+		<td>111</td>
+		<td><a href="https://hackerrank.com/challenges/string-construction/problem">String Construction</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>25</td>
+		<td>Strings</td>
+	</tr>
+	<tr>
+		<td>112</td>
+		<td><a href="https://www.hackerrank.com/challenges/quicksort1/problem">Quicksort 1 - Partition</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Sorting</td>
+	</tr>
+	
+	
 	
 </table>
 </p>
