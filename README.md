@@ -951,6 +951,14 @@
 		<td>30</td>
 		<td>Greedy</td>
 	</tr>
+	<tr>
+		<td>114</td>
+		<td><a href="https://www.hackerrank.com/challenges/sherlock-and-the-beast/problemhttps://www.hackerrank.com/challenges/maximum-perimeter-triangle/submissions/code/125395668">Maximum Perimeter triangle</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
+		<td>Greedy</td>
+	</tr>
 	
 	
 	
