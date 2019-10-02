@@ -959,6 +959,22 @@
 		<td>20</td>
 		<td>Greedy</td>
 	</tr>
+	<tr>
+		<td>115</td>
+		<td><a href="https://www.hackerrank.com/challenges/climbing-the-leaderboard">Climbing the Leaderboard</a></td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/algorithms/implementation/climbing%20the%20leaderboard.py">Solution</a></td>
+		<td>Medium</td>
+		<td>20</td>
+		<td>Implementation</td>
+	</tr>
+	<tr>
+		<td>116</td>
+		<td><a href="https://www.hackerrank.com/challenges/climbing-the-leaderboard">Largest Permutation</a></td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/algorithms/greedy/largest%20permutation.py">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Greedy</td>
+	</tr>
 	
 	
 	
