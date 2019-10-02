@@ -34,7 +34,7 @@
 	<tr>
 		<td>1</td>
 		<td><a href="https://www.hackerrank.com/challenges/solve-me-first/problem">Solve me first</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/algorithms/warm%20up/solve%20me%20first.py">Solution</a></td>
 		<td>Easy</td>
 		<td>1</td>
 		<td>Warm up</td>
@@ -42,7 +42,7 @@
 	<tr>
 		<td>2</td>
 		<td><a href="https://www.hackerrank.com/challenges/simple-array-sum">Simple array sum</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/algorithms/warm%20up/simple%20array%20sum.py">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Warm up</td>
@@ -50,7 +50,7 @@
 	<tr>
 		<td>3</td>
 		<td><a href="https://www.hackerrank.com/challenges/compare-the-triplets/problem">Compare triplets</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/algorithms/warm%20up/compare%20the%20triplets.py">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Warm up</td>
@@ -58,7 +58,7 @@
 	<tr>
 		<td>4</td>
 		<td><a href="https://www.hackerrank.com/challenges/a-very-big-sum/problem">A very big sum</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/algorithms/warm%20up/a%20very%20big%20sum.py">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Warm up</td>
@@ -66,7 +66,7 @@
 	<tr>
 		<td>5</td>
 		<td><a href="https://www.hackerrank.com/challenges/diagonal-difference/problem">Diagonal differnce</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/algorithms/warm%20up/diagonal%20difference.py">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Warm up</td>
@@ -74,7 +74,7 @@
 	<tr>
 		<td>6</td>
 		<td><a href="https://www.hackerrank.com/challenges/plus-minus/problem">Plus Minus</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/algorithms/warm%20up/plus%20minus.py">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Warm up</td>
@@ -82,7 +82,7 @@
 	<tr>
 		<td>7</td>
 		<td><a href="https://www.hackerrank.com/challenges/staircase/problem">Staircase</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/algorithms/warm%20up/staircase.py">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Warm up</td>
@@ -90,7 +90,7 @@
 	<tr>
 		<td>8</td>
 		<td><a href="https://www.hackerrank.com/challenges/mini-max-sum/problem">Mini-Max-Sum</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/algorithms/warm%20up/mini-max-sum.py">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Warm up</td>
@@ -98,7 +98,7 @@
 	<tr>
 		<td>9</td>
 		<td><a href="https://www.hackerrank.com/challenges/birthday-cake-candles/problem">Birthday Cake Candles</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/algorithms/warm%20up/birthday%20cake%20candles.py">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Warm up</td>
@@ -106,7 +106,7 @@
 	<tr>
 		<td>10</td>
 		<td><a href="https://www.hackerrank.com/challenges/time-conversion/problem">Time conversion</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/algorithms/warm%20up/time%20conversion.py">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Warm up</td>
@@ -949,6 +949,14 @@
 		<td>Solution</td>
 		<td>Easy</td>
 		<td>30</td>
+		<td>Greedy</td>
+	</tr>
+	<tr>
+		<td>114</td>
+		<td><a href="https://www.hackerrank.com/challenges/sherlock-and-the-beast/problemhttps://www.hackerrank.com/challenges/maximum-perimeter-triangle/submissions/code/125395668">Maximum Perimeter triangle</a></td>
+		<td>Solution</td>
+		<td>Easy</td>
+		<td>20</td>
 		<td>Greedy</td>
 	</tr>
 	
