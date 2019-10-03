@@ -961,12 +961,21 @@
 	</tr>
 	<tr>
 		<td>115</td>
-		<td><a href="https://www.hackerrank.com/challenges/sherlock-and-the-beast/problemhttps://www.hackerrank.com/challenges/maximum-perimeter-triangle/submissions/code/125395668">Absolute permutation</a></td>
-		<td>Solution</td>
+		<td><a href="https://www.hackerrank.com/challenges/climbing-the-leaderboard">Climbing the Leaderboard</a></td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/algorithms/implementation/climbing%20the%20leaderboard.py">Solution</a></td>
 		<td>Medium</td>
-		<td>40</td>
+		<td>20</td>
 		<td>Implementation</td>
 	</tr>
+	<tr>
+		<td>116</td>
+		<td><a href="https://www.hackerrank.com/challenges/climbing-the-leaderboard">Largest Permutation</a></td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/algorithms/greedy/largest%20permutation.py">Solution</a></td>
+		<td>Easy</td>
+		<td>30</td>
+		<td>Greedy</td>
+	</tr>
+>>>>>>> 9e01ad983657ed0352d8bf37fd932b514f2493e9
 	
 	
 	
