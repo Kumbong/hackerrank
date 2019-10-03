@@ -975,7 +975,14 @@
 		<td>30</td>
 		<td>Greedy</td>
 	</tr>
->>>>>>> 9e01ad983657ed0352d8bf37fd932b514f2493e9
+	<tr>
+		<td>117</td>
+		<td><a href="https://www.hackerrank.com/challenges/absolute-permutation/copy-from/125831537">Absolute Permutation</a></td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/algorithms/implementation/absolute%20permutation.py">Solution</a></td>
+		<td>Medium</td>
+		<td>40</td>
+		<td>Implementation</td>
+	</tr>
 	
 	
 	
