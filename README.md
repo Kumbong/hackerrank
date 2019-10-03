@@ -959,6 +959,14 @@
 		<td>20</td>
 		<td>Greedy</td>
 	</tr>
+	<tr>
+		<td>115</td>
+		<td><a href="https://www.hackerrank.com/challenges/sherlock-and-the-beast/problemhttps://www.hackerrank.com/challenges/maximum-perimeter-triangle/submissions/code/125395668">Absolute permutation</a></td>
+		<td>Solution</td>
+		<td>Medium</td>
+		<td>40</td>
+		<td>Implementation</td>
+	</tr>
 	
 	
 	
