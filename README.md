@@ -1432,6 +1432,59 @@
 
 # C 
 
+<table align="center">
+	<tr>
+		<th>#</th>
+		<th>Problem</th>
+		<th>Solution</th>
+		<th>Difficulty</th>
+		<th>Points</th>
+		<th>Sub domain</th>
+	</tr>
+	<tr>
+		<td>1</td>
+		<td><a href="https://www.hackerrank.com/challenges/hello-world-c">Say "Hello, World!" in c</a></td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/c/hello%20world%20in%20c.c">Solution</a></td>
+		<td>Easy</td>
+		<td>5</td>
+		<td>Introduction</td>
+	</tr>
+	<tr>
+		<td>2</td>
+		<td><a href="https://www.hackerrank.com/challenges/sum-numbers-c">Sum and difference of two numbers</a></td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/c/sum%20and%20difference%20of%20two%20numbers.c">Solution</a></td>
+		<td>Easy</td>
+		<td>5</td>
+		<td>Introduction</td>
+	</tr>
+	<tr>
+		<td>3</td>
+		<td><a href="https://www.hackerrank.com/challenges/functions-in-c">Functions in C</a></td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/c/functions%20in%20c.c">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Introduction</td>
+	</tr>
+	<tr>
+		<td>4</td>
+		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else">Conditional Statements</a></td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/c/conditional%20statements%20in%20c.c">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Introduction</td>
+	</tr>
+	<tr>
+		<td>5</td>
+		<td><a href="https://www.hackerrank.com/challenges/pointer-in-c">Pointers in C</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/c/pointers%20in%20c.c">Solution</a></td>
+		<td>Easy</td>
+		<td>10</td>
+		<td>Introduction</td>
+	</tr>
+	
+	
+</table> 
+
 <h2>Contributing</h2>
 <p>If you are interested in helping or have a solution in a different language feel free to make a pull request. You can also reach me on through the following media if you want to talk.
 <ul>
