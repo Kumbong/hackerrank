@@ -1270,7 +1270,7 @@
 	<tr>
 		<td>1</td>
 		<td><a href="https://www.hackerrank.com/challenges/cpp-hello-world">Say "Hello, World!" With C++</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/c%2B%2B/introduction/say%20hello%20world%20with%20c%2B%2B.cpp">Solution</a></td>
 		<td>Easy</td>
 		<td>5</td>
 		<td>Introduction</td>
@@ -1278,7 +1278,7 @@
 	<tr>
 		<td>2</td>
 		<td><a href="https://www.hackerrank.com/challenges/cpp-input-and-output">Input and Output</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/c%2B%2B/introduction/input%20and%20output.cpp">Solution</a></td>
 		<td>Easy</td>
 		<td>5</td>
 		<td>Introduction</td>
@@ -1286,7 +1286,7 @@
 	<tr>
 		<td>3</td>
 		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-basic-data-types">Basic Data Types</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/c%2B%2B/introduction/basic%20data%20types.cpp">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Introduction</td>
@@ -1294,7 +1294,7 @@
 	<tr>
 		<td>4</td>
 		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-conditional-if-else">Conditional Statements</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/c%2B%2B/introduction/conditional%20statements.cpp">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Introduction</td>
@@ -1302,7 +1302,7 @@
 	<tr>
 		<td>5</td>
 		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-for-loop">For Loop</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/c%2B%2B/introduction/for%20loop.cpp">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Introduction</td>
@@ -1310,7 +1310,7 @@
 	<tr>
 		<td>6</td>
 		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-functions">Functions</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/c%2B%2B/introduction/functions.cpp">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Introduction</td>
@@ -1318,7 +1318,7 @@
 	<tr>
 		<td>7</td>
 		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-pointer">Pointer</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/c%2B%2B/introduction/pointers.cpp">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Introduction</td>
@@ -1326,7 +1326,7 @@
 	<tr>
 		<td>8</td>
 		<td><a href="https://www.hackerrank.com/challenges/arrays-introduction">Arrays Introduction</a></td>
-		<td>Solution</td>
+		<td><A href="https://github.com/Kumbong/hackerrank/blob/master/c%2B%2B/introduction/arrays%20introduction.cpp">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Introduction</td>
@@ -1334,7 +1334,7 @@
 	<tr>
 		<td>9</td>
 		<td><a href="https://www.hackerrank.com/challenges/variable-sized-arrays">Variable Sized Arrays</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/c%2B%2B/introduction/variable%20sized%20array.cpp">Solution</a></td>
 		<td>Easy</td>
 		<td>30</td>
 		<td>Introduction</td>
@@ -1342,7 +1342,7 @@
 	<tr>
 		<td>10</td>
 		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-strings">Strings</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/c%2B%2B/strings/strings.cpp">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Strings</td>
@@ -1350,7 +1350,7 @@
 	<tr>
 		<td>11</td>
 		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-stringstream">StringStream</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/c%2B%2B/strings/stringstream.cpp">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Strings</td>
@@ -1358,7 +1358,7 @@
 	<tr>
 		<td>12</td>
 		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-class">Class</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/c%2B%2B/classes/class.cpp">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Classes</td>
@@ -1366,7 +1366,7 @@
 	<tr>
 		<td>13</td>
 		<td><a href="https://www.hackerrank.com/challenges/c-tutorial-struct">Structs</a></td>
-		<td>Solution</td>
+		<td><A href="https://github.com/Kumbong/hackerrank/blob/master/c%2B%2B/classes/structs.cpp">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>Classes</td>
@@ -1374,7 +1374,7 @@
 <tr>
 		<td>14</td>
 		<td><a href="https://www.hackerrank.com/challenges/classes-objects">Classes and objects</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/c%2B%2B/classes/classes%20and%20objects.cpp">Solution</a></td>
 		<td>Easy</td>
 		<td>20</td>
 		<td>Classes</td>
@@ -1382,7 +1382,7 @@
 	<tr>
 		<td>15</td>
 		<td><a href="https://www.hackerrank.com/challenges/box-it">Box It!</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/c%2B%2B/classes/box-it.cpp">Solution</a></td>
 		<td>Easy</td>
 		<td>30</td>
 		<td>Classes</td>
@@ -1390,7 +1390,7 @@
 	<tr>
 		<td>16</td>
 		<td><a href="https://www.hackerrank.com/challenges/inherited-code">Inherited Code</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/c%2B%2B/classes/inherited%20code.cpp">Solution</a></td>
 		<td>Medium</td>
 		<td>30</td>
 		<td>Classes</td>
@@ -1398,7 +1398,7 @@
 	<tr>
 		<td>17</td>
 		<td><a href="https://www.hackerrank.com/challenges/exceptional-server">Exceptional Server</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/c%2B%2B/classes/exceptional%20server.cpp">Solution</a></td>
 		<td>Medium</td>
 		<td>30</td>
 		<td>Classes</td>
@@ -1406,7 +1406,7 @@
 	<tr>
 		<td>18</td>
 		<td><a href="https://www.hackerrank.com/challenges/virtual-functions">Virtual Functions</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/c%2B%2B/classes/virtual%20functions.cpp">Solution</a></td>
 		<td>Medium</td>
 		<td>40</td>
 		<td>Classes</td>
@@ -1414,7 +1414,7 @@
 	<tr>
 		<td>19</td>
 		<td><a href="https://www.hackerrank.com/challenges/vector-sort">Vector-Sort</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/c%2B%2B/stl/vector%20sort.cpp">Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>STL</td>
@@ -1422,7 +1422,7 @@
 	<tr>
 		<td>20</td>
 		<td><a href="https://www.hackerrank.com/challenges/vector-erase">Vector-Erase</a></td>
-		<td>Solution</td>
+		<td><a href="https://github.com/Kumbong/hackerrank/blob/master/c%2B%2B/stl/vector%20erase.cpp>Solution</a></td>
 		<td>Easy</td>
 		<td>10</td>
 		<td>STL</td>
