@@ -4,28 +4,45 @@ using namespace std;
 
 string ltrim(const string &);
 string rtrim(const string &);
-vector<string> split(const string &);
 
-// Complete the compareTriplets function below.
-vector<int> compareTriplets(vector<int> a, vector<int> b) {
+/*
+ * Complete the 'gradingStudents' function below.
+ *
+ * The function is expected to return an INTEGER_ARRAY.
+ * The function accepts INTEGER_ARRAY grades as parameter.
+ */
 
-vector<int> score={0,0};
+vector<int> gradingStudents(vector<int> grades, int grades_count) {
 
-for(int x=0; x<3; x++){
+int expected=0;
+    for(int a=0; a<grades_count; a++){
+        if(grades[a]<38){
 
-    if(a[x]<b[x]){
-        score[1]+=1;
-    }
-    else if(a[x]>b[x]){
-        score[0]+=1;
-    }
-    else if(a[x]==b[x]){
+        }
+        else if(grades[a]%5==0){
 
-    }
+        }
+        else if(grades[a]%5!=0){
+       int result = grades[a] + 5/2;
+        result -= result % 5;
+            if(abs(result-grades[a])>3){
+               
+             }
+             else{
+                 if(result<grades[a]){
 
-}
+                 }
+                 else{
+                 grades[a]=result;
+                 }
+             }
+        }
+     }
+        
+         
+    
 
-return score;
+  return grades;
 
 }
 
@@ -33,39 +50,29 @@ int main()
 {
     ofstream fout(getenv("OUTPUT_PATH"));
 
-    string a_temp_temp;
-    getline(cin, a_temp_temp);
+    string grades_count_temp;
+    getline(cin, grades_count_temp);
 
-    vector<string> a_temp = split(rtrim(a_temp_temp));
+    int grades_count = stoi(ltrim(rtrim(grades_count_temp)));
 
-    vector<int> a(3);
+    vector<int> grades(grades_count);
 
-    for (int i = 0; i < 3; i++) {
-        int a_item = stoi(a_temp[i]);
+    for (int i = 0; i < grades_count; i++) {
+        string grades_item_temp;
+        getline(cin, grades_item_temp);
 
-        a[i] = a_item;
+        int grades_item = stoi(ltrim(rtrim(grades_item_temp)));
+
+        grades[i] = grades_item;
     }
 
-    string b_temp_temp;
-    getline(cin, b_temp_temp);
-
-    vector<string> b_temp = split(rtrim(b_temp_temp));
-
-    vector<int> b(3);
-
-    for (int i = 0; i < 3; i++) {
-        int b_item = stoi(b_temp[i]);
-
-        b[i] = b_item;
-    }
-
-    vector<int> result = compareTriplets(a, b);
+    vector<int> result = gradingStudents(grades, grades_count);
 
     for (int i = 0; i < result.size(); i++) {
         fout << result[i];
 
         if (i != result.size() - 1) {
-            fout << " ";
+            fout << "\n";
         }
     }
 
@@ -96,21 +103,4 @@ string rtrim(const string &str) {
     );
 
     return s;
-}
-
-vector<string> split(const string &str) {
-    vector<string> tokens;
-
-    string::size_type start = 0;
-    string::size_type end = 0;
-
-    while ((end = str.find(" ", start)) != string::npos) {
-        tokens.push_back(str.substr(start, end - start));
-
-        start = end + 1;
-    }
-
-    tokens.push_back(str.substr(start));
-
-    return tokens;
 }
