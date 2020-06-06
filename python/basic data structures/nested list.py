@@ -1,22 +1,52 @@
-if __name__ == '__main__':
-    nested_list=[]
-    for _ in range(int(input())):
-        name = input()
-        score = float(input())
-        nested_list.append([name,score])
-    
-    nested_list.sort(key=lambda x: (x[1],x[0]))
+#include <bits/stdc++.h>
 
-    m = nested_list[0][1]
+using namespace std;
 
-    nested_list = list(filter(lambda x: x[1]!=m,nested_list))
+// Complete the viralAdvertising function below.
+int viralAdvertising(int n) {
 
-    m = nested_list[0][1]
+    int constant_first=2;
+    int total_like=2;
+    int advertised=5;
+    int liked=0;
+    int next_like=total_like;
+    int next_view;
 
-    res = list(filter(lambda x: x[1]==m,nested_list))
 
-    for el in res:
-        print(el[0])
+    cout<<"first constant liked by "<<constant_first<<endl;
 
-    
+    for(int x=0; x<n-1; x++){
+        next_view= next_like*3;
+        cout<< "next to see "<<next_view<<endl;
 
+        advertised+= (total_like*3);
+        cout<<"seen by "<<advertised<<endl;
+
+        total_like+= next_view/2;
+        next_like= next_view/2;
+        
+        cout<<"next to like "<<next_view/2<<endl;
+        cout<<"total liked by "<<total_like<<endl;
+
+        
+    }
+
+    return total_like;
+}
+
+int main()
+{
+    ofstream fout(getenv("OUTPUT_PATH"));
+
+    int n;
+    cin >> n;
+    cin.ignore(numeric_limits<streamsize>::max(), '\n');
+
+    int result = viralAdvertising(n);
+
+    fout << result << "\n";
+
+    fout.close();
+
+    return 0;
+}
