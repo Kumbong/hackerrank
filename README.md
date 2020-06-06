@@ -3,7 +3,11 @@
 	<a href="https://www.hackerrank.com/profile/kumbonghermann"><img src="https://i0.wp.com/gradsingames.com/wp-content/uploads/2016/05/856771_668224053197841_1943699009_o.png" ></a>
 </p>
 <p align="center">
+<<<<<<< HEAD
      (Efficient!!) solutions to problems on HackerRank in Python.
+=======
+    My (Efficient!!) solutions to problems on HackerRank in Python and other languages .
+>>>>>>> 23ca07ed92c98673f4a9869fe94036744a487ffb
 </p>
 <p align="center">
 	| hackerrank | algorithms| data structures | mathematics | c | c++ | java | python | ruby | linux shell | functional programming | artificial intelligence | sql | databases | regex | interview preparation kit |30 days of code| 10 days of statistics |10 days of javascript | 
